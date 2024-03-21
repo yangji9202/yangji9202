@@ -1,6 +1,6 @@
 깃허브 프로필 꾸미는 중
 
-![헤더]https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=개발을%20배우고%20있는%20중
+![헤더](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=개발을%20배우고%20있는%20중)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangji9202_icons=true&theme=transparent)
 
