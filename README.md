@@ -1,7 +1,16 @@
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=180&color=auto&text=Hi,%20I'm%20Jiyeong%20&fontAlign=71&fontAlignY=70&animation=fadeIn)
 
-![헤더](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=개발을%20배우고%20있는%20중)
+### 🙇 안녕하세요, Back-end Programmer로 성장해나가고 있는 양지영입니다!
+
+![java](https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) <br>
+![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangji9202&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangji9202)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
